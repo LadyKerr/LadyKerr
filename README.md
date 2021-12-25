@@ -5,6 +5,8 @@ I'm a Software Engineer who is passionate about encouraging others to get in the
 I've been working as a Front-End Engineer for the past two years and is currently learning about cloud engineering and security. I'm brushing off my NodeJS skills so I can be an effective Developer Advocate in this space. 😄
 
 <img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
+
+### ✨ Connect with me on Instagram & Twitter! ✨
 You can find a lot of my content on [my Instagram page](https://www.instagram.com/itsthatlady.dev/) and you can get in touch with me on [Twitter](https://twitter.com/itsthatladydev)
 
 <!--
