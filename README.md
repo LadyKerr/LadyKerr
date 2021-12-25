@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Kedasha! 👋
+
+I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy.
+
+I've been working as a Front-End Engineer for the past two years and is currently learning about cloud engineering and security. I'm brushing off my NodeJS skills so I can be an effective Developer Advocate in this space. 😄
+
+<img align="left" width="150" height="150" src="" alt="kedasha's instagram page @itsthatladydev">
+You can find a lot of my content on [my Instagram page](https://www.instagram.com/itsthatlady.dev/) and you can get in touch with me on [Twitter](https://twitter.com/itsthatladydev)
 
 <!--
 **LadyKerr/LadyKerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
