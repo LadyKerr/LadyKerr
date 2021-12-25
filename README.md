@@ -6,8 +6,8 @@ I've been working as a Front-End Engineer for the past two years and is currentl
 
 <img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
 
-### ✨ Connect with me on Instagram & Twitter! ✨
-You can find a lot of my content on [my Instagram page](https://www.instagram.com/itsthatlady.dev/) and you can get in touch with me on [Twitter](https://twitter.com/itsthatladydev)
+### ✨ Connect with me on Instagram! 😊 ✨
+You can find a lot of my content on [my Instagram page](https://www.instagram.com/itsthatlady.dev/) and you can get in touch with me on [Twitter](https://twitter.com/itsthatladydev). You can also connect with me on [LinkedIn](http://linkedin.com/in/kedashakerr) or [send me an email](mailto:hello@itsthatlady.dev).
 
 <!--
 **LadyKerr/LadyKerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
