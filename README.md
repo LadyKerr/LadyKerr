@@ -2,7 +2,7 @@
 
 I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy.
 
-I've been working as a Front-End Engineer for the past two years and is currently learning about cloud engineering and security. I'm brushing off my NodeJS skills so I can be an effective Developer Advocate in this space. 😄
+I've been working as a Front-End Engineer for the past two years and currently work as a Developer Advocate 🥑.
 
 <img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
 
