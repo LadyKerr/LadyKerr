@@ -1,24 +1,36 @@
 ### Hey, I'm Kedasha! 👋
 
-I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy.
+I'm passionate about making AI accessible to developers and helping underrepresented folks thrive in tech. I've keynoted alongside tech CEOs, reached 10M+ developers globally, and created frameworks that help developers turn their expertise into career acceleration. I currently work at GitHub as a Developer Advocate.
 
-I've been working as a Front-End Engineer for the past two years and currently work as a Developer Advocate 🥑.
+> I believe AI should amplify human potential, not replace it. Let's build the future where developers thrive alongside AI.
+
+🎯 **What I Do**
+
+- **AI Education**: Scaling GitHub Copilot adoption and teaching developers to build with AI
+- **Developer Advocacy**: Creating content that reaches millions of developers worldwide
+- **Framework Creation**: Built the C.O.D.E. Framework for strategic developer content creation
+- **Community Building**: Supporting women and underrepresented developers in tech
+- **Founder**: Created [VibeCodeHer Academy](https://www.linkedin.com/company/vibecodeher-academy/) to turn ideas into apps in 48 hours - no coding required
+
+### Technical Focus
+```js
+const kedasha = {
+  expertise: ["GitHub Copilot", "LLMs", "AI/ML", "Python", "JavaScript"],
+  passion: ["Developer Education", "AI Accessibility", "Career Growth"],
+  currentProjects: ["NoseKnows ML Demo", "Quibit Mobile App"],
+  teaching: ["Vibe Coding", "C.O.D.E. Framework", "AI Integration"]
+}
+```
+  
+![workshop_1](https://github.com/user-attachments/assets/ea0f9beb-7f9c-4106-8742-95eb2d72404a)
+  
 
 <img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
 
-### ✨ Connect with me on Instagram! 😊 ✨
-You can find a lot of my content on [my Instagram page](https://www.instagram.com/itsthatlady.dev/) and you can get in touch with me on [Twitter](https://twitter.com/itsthatladydev). You can also connect with me on [LinkedIn](http://linkedin.com/in/kedashakerr) or [send me an email](mailto:hello@itsthatlady.dev).
+🌟 **Let's Connect!**
 
-<!--
-**LadyKerr/LadyKerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔗 Website: https://www.itsthatlady.dev/
+- 📱 Social: [@itsthatladydev](https://www.instagram.com/itsthatlady.dev/) on all platforms
+- 💼 LinkedIn: [kedashakerr](https://www.linkedin.com/in/kedashakerr/)
+- 📧 Newsletter: [LadyDev Log](https://www.itsthatlady.dev/newsletter) for dev tips and projects you can build to learn and earn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
